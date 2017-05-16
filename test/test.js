@@ -1,4 +1,5 @@
 var Igual = require('../lib/Igual.js');
+var should = require('should');
 
 describe("Función igual", function(){
   it("La función igual debe devolver los elementos comunes entre sec1 y sec2", function() {
@@ -6,6 +7,6 @@ describe("Función igual", function(){
     var sec2 = [2, 3, 4];
     var result = Igual(sec1, sec2)
     result.should.be.equal('2, 3');
-  }
+  })
 
 })
