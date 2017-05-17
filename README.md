@@ -3,11 +3,16 @@
 ## Modulo Igual
 
 Este módulo proporciona una nueva operación que permite comparar los valores comunes de una secuencia.
+## Despliegue en Heroku
+  * [Heroku](https://ull-andrea-carlos-comparador.herokuapp.com/)
+## Hace uso de los módulos
+    * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
 ## Repositorios del proyecto.
   * [Secuencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia).
   * [Fibonacci](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci).
   * [Primos](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-primos).
   * [Igual](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-igual).
+  * [Diferencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-diferencia)
   * [Comparar](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-comparar).
   * [Main](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-p5).
 ## Documentación.
@@ -15,6 +20,7 @@ Este módulo proporciona una nueva operación que permite comparar los valores c
 * [Fibonacci](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-fibonacci/).
 * [Primos](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-primos/).
 * [Igual](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-igual/).
+* [Diferencia](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-diferencia/) 
 * [Comparar](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-comparar/).
 ## Campus virtual
 * [Aula virtual de la asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
